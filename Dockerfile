@@ -1,1 +1,1 @@
-FROM gcr.io/spark-operator/spark:v3.1.3
+FROM gcr.io/spark-operator/spark:v3.1.1
